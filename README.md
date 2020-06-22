@@ -1,9 +1,7 @@
 # yandex_practicum_music
-### The project is about analyzing music preferences of Yandex.Music users. The project was completed as part of the analytics course by  Yandex.Pratikum
+### In this project music preferences of Yandex.Music users were analyzed. The project was completed as part of the "Data Analyst" course by  Yandex.Pratikum
 ```
 music_project.ipynb - python script 
 ```
 
-### Run
 
-#### Use jupyter notebook to run this script
